@@ -1,0 +1,25 @@
+/* global shared styles */
+
+/* defining app theme color */
+:root{
+    --red-ocbc: rgb(238, 39, 34);
+    --white-ocbc: rgb(255, 255, 255);
+}
+
+/* fonts */
+
+
+/* background */
+html, body {
+  max-width: 100%;
+  overflow-x: hidden;
+}
+
+/* navigation bar layout: top bar (web) */
+
+
+/* navigatoin bar layout: bottom bar (mobile) */
+
+
+
+/* responsive web */

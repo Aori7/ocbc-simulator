@@ -4,6 +4,10 @@
 :root{
     --red-ocbc: rgb(238, 39, 34);
     --white-ocbc: rgb(255, 255, 255);
+    --black-ocbc: rgb(30, 30, 30);
+    --grey-ocbc: rgb(110, 110, 110);
+    --light-grey: rgb(245, 245, 245);
+    --border-grey: rgb(230, 230, 230);
 }
 
 /* fonts */

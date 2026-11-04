@@ -1,0 +1,20 @@
+
+
+.dashboard {
+    padding: 30px 50px;
+    background-color: #f7f7f7;
+    min-height: 100vh;
+}
+
+.welcome-section {
+    margin-bottom: 30px;
+}
+
+.welcome-section h1 {
+    color: var(--black-ocbc);
+    margin-bottom: 8px;
+}
+
+.welcome-section p {
+    color: var(--grey-ocbc);
+}

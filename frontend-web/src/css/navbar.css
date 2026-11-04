@@ -3,11 +3,11 @@
     display: flex;
     align-items: center;
     justify-content: space-between;
+    padding: 10px 30px;
 
-    padding: 20px 50px;
-
-    background-color: var(--white-ocbc);
+    background-color: var(--w);
     border-bottom: 1px solid var(--border-grey);
+    box-shadow: 0 5px 15px rgba(0, 0, 0, 0.3);
 }
 
 .navbar-logo img {
@@ -15,17 +15,6 @@
     height: auto;
     object-fit: contain;
 }
-.navbar {
-    display: flex;
-    align-items: center;
-    justify-content: space-between;
-
-    padding: 20px 50px;
-
-    background-color: var(--white-ocbc);
-    border-bottom: 1px solid var(--border-grey);
-}
-
 /* Logo */
 .navbar-logo h1 {
     color: var(--red-ocbc);

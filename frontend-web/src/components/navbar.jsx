@@ -1,4 +1,5 @@
 import "../css/navbar.css";
+import "../css/global.css";
 import ocbclogo from "../assets/OCBC-Logo.png";
 
 function Navbar() {
@@ -10,7 +11,7 @@ function Navbar() {
       </div>
 
       <div className="navbar-links">
-        <a href="#">View Accounts</a>
+        <a href="#" class="active">View Accounts</a>
         <a href="#">Transfer & Payments</a>
         <a href="#">AI Chatbot</a>
         <a href="#">Security</a>

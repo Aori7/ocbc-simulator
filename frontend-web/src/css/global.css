@@ -1,4 +1,7 @@
 /* global shared styles */
+/* font: urbanist */
+@import url('https://fonts.googleapis.com/css2?family=Urbanist:ital,wght@0,100..900;1,100..900&display=swap');
+
 
 /* defining app theme color */
 :root{
@@ -8,22 +11,19 @@
     --grey-ocbc: rgb(110, 110, 110);
     --light-grey: rgb(245, 245, 245);
     --border-grey: rgb(230, 230, 230);
+
 }
 
-/* fonts */
-
+*{
+    font-family: "Urbanist", sans-serif;
+}
 
 /* background */
 html, body {
   max-width: 100%;
   overflow-x: hidden;
+  margin: 0;
 }
-
-/* navigation bar layout: top bar (web) */
-
-
-/* navigatoin bar layout: bottom bar (mobile) */
-
 
 
 /* responsive web */

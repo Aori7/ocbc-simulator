@@ -1,13 +1,13 @@
 import "../css/navbar.css";
 import "../css/global.css";
-import ocbclogo from "../assets/OCBC-Logo.png";
+// import ocbclogo from "../assets/OCBC-Logo.png";
+import ReventLogo from './ReventLogo';
 
 function Navbar() {
   return (
     <nav className="navbar">
       <div className="navbar-logo">
-        {/* <h1>OCBC</h1> */}
-        <img src={ocbclogo} alt="OCBC Logo"/>
+        <ReventLogo />
       </div>
 
       <div className="navbar-links">
